@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blessing Onwunali
 - 👀 I’m interested in ...Software and Web development
-- 🌱 I’m currently learning ... Java and Android
+- 🌱 I’m currently learning ... Java, Reactjs, Kotlin, UI/UX and Android
 - 📫 How to reach me ... +2348168716481 or Chikaonwunali2019@gmail.com
 
 <!---
