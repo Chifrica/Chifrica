@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Blessing Onwunali
+- 👋 Hi, I’m **Blessing Onwunali**
 - 👀 I’m interested in ...Software and Web development
-- 🌱 I’m currently learning ... Java, Reactjs, Kotlin, UI/UX and Android
-- 📫 How to reach me ... +2348168716481 or Chikaonwunali2019@gmail.com
+- 🌱 I’m currently confident in working ...
+- ```` bash
+  Java, Reactjs, Kotlin, UI/UX and Android
+  ````
+- 📫 How to reach me ... [+2348168716481] or [Chikaonwunali2019@gmail.com]
 
 <!---
 Blessing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
