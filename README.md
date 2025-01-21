@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Blessing Onwunali**
-- 👀 I’m interested in ...Software and Web development
+- 👀 ... _Am_ a Software and Web Developer_ ...
 - 🌱 I’m currently confident in working ...
 - ```` bash
   Java, Reactjs, Kotlin, UI/UX and Android
