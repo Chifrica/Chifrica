@@ -3,8 +3,11 @@
 - 🌱 |
 I’m currently confident in working | ...
 - ```` bash
+
 |---|---|---|---|---|
-  |Java, |Reactjs, |Kotlin, |UI/UX and Android|
+
+| Java | Reactj | Kotlin | UI/UX | Android |
+
   ````
 - 📫 How to reach me ... [+2349014074161] or [Chikaonwunali2019@gmail.com]
 
