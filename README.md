@@ -1,8 +1,10 @@
 - 👋 Hi, I’m **Blessing Onwunali**
 - 👀 ... _Am_ _a_ _Software_ _and_ _Web_ _Developer_ ...
-- 🌱 I’m currently confident in working ...
+- 🌱 |
+I’m currently confident in working | ...
 - ```` bash
-  Java, Reactjs, Kotlin, UI/UX and Android
+|---|---|---|---|---|
+  |Java, |Reactjs, |Kotlin, |UI/UX and Android|
   ````
 - 📫 How to reach me ... [+2349014074161] or [Chikaonwunali2019@gmail.com]
 
